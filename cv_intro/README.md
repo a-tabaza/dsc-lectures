@@ -11,3 +11,6 @@
 - [Train YOLOv9 on Custom Dataset](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov9-object-detection-on-custom-dataset.ipynb)
 - [Train YOLOv9 on Custom Dataset Blogpost](https://blog.roboflow.com/train-yolov9-model/)
 - [YOLOv9 on HF](https://huggingface.co/merve/yolov9)
+- [YOLO Slides (1)](https://www.micc.unifi.it/bagdanov/pdfs/YOLO-presentation.pdf)
+- [YOLO Slides (2)](http://ailab.dongguk.edu/wp-content/uploads/2022/07/YOLO-lab-Presentation.pptx.pdf)
+- [YOLO through the years](https://deci.ai/blog/history-yolo-object-detection-models-from-yolov1-yolov8/)
