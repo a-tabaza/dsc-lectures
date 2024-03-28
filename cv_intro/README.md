@@ -14,3 +14,6 @@
 - [YOLO Slides (1)](https://www.micc.unifi.it/bagdanov/pdfs/YOLO-presentation.pdf)
 - [YOLO Slides (2)](http://ailab.dongguk.edu/wp-content/uploads/2022/07/YOLO-lab-Presentation.pptx.pdf)
 - [YOLO through the years](https://deci.ai/blog/history-yolo-object-detection-models-from-yolov1-yolov8/)
+
+## End-to-end Projects
+- [Image Search Engine](https://colab.research.google.com/drive/1lsXADYwlvp4ITljIkt5Rc5Lezpwd-Cbv?usp=sharing)
